@@ -1,0 +1,11 @@
+.buttonGrid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    width: 200px;
+}
+.display{
+    margin-left: 50px;
+    font-size: x-large;
+    height: 50px;
+
+}
